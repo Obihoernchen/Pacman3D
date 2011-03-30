@@ -1,0 +1,42 @@
+.:::: Hilfe ::::.
+
+
+» Ziel des Spiels
+
+Ziel des Spieles ist es,alle Credits auf der Map einzusammeln.
+Diese sind gelb. Im Kopf des Spiels wird angezeigt, wie viele
+Dir noch fehlen.
+
+
+» Geister
+
+Die Geister, die Dir im Spiel begegnen, stellen Gegenspieler dar,
+die,wenn Du sie berührst,Dir eins von drei Leben abziehen und dich
+zum Ausgangspunkt der Map teleportieren. Sind alle drei Leben weg, 
+hast Du das Spiel verloren. Stirbst Du, fliegen die Geister nach oben
+und werden grün. Solange sie grün sind können sie dich nicht töten.
+
+ 
+» PowerUps
+
+Die roten und etwasgrößeren Credits sind Powerups. Wenn Du einen
+aufsammelst, erhälst Du für eine kurze Zeit eine Waffe, mit welcher
+Du in der Lage bist, die Geister abzuschießen.
+Ein getroffener Geist steigt in die Luft und wird grün. Du kannst unbeschadet unter
+ihm hindurchlaufen. Allerdings erholen sich die Geister nach kurzer
+Zeit wieder und kommen zurück auf den Boden.
+
+
+» Steuerung
+
+Vorwärts			W	
+Rückwärts			S
+Links				A 
+Rechts				D 
+Drehen				Maus
+Schießen			Linke Maustaste
+Menü aktivieren/Weiterspielen	Escape
+
+» Map laden
+
+Escape drücken und dann unter Map -> Öffnen

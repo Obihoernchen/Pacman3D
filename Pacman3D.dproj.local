@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Main.pas"/>
+    <File Path="Main.dfm"/>
+    <File Path="Einstellungen.pas"/>
+    <File Path="Einstellungen.dfm"/>
+    <File Path="SplashScreen.pas"/>
+    <File Path="SplashScreen.dfm"/>
+    <File Path="Minimap.pas"/>
+    <File Path="Minimap.dfm"/>
+  </ProjectSortOrder>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.252,X:\pacman2\bla1.dfm=X:\pacman2\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.614,X:\pacman2\SplashScreen.pas=X:\pacman2\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.172,X:\pacman2\Render.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,F:\pacman2\Minimap.pas=F:\pacman2\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.644,X:\pacman2\Unit1.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.232,=X:\pacman2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.685,=X:\pacman2\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.614,X:\pacman2\SplashScreen.dfm=X:\pacman2\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,F:\pacman2\Minimap.dfm=F:\pacman2\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.440,X:\pacman2\kirche.dproj=X:\pacman2\Pacman3D.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.781,=X:\pacman2\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.475,X:\pacman2\Unit2.pas=X:\pacman2\Render.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.252,X:\pacman2\bla1.pas=X:\pacman2\Main.pas</Transaction>
+  </Transactions>
+</BorlandProject>
